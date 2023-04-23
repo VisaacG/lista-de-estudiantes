@@ -1,0 +1,14 @@
+.body{
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.h1{
+    color: blue;
+}
+.p{
+    font-size: large;
+}
+.ol{
+    font-size: larger;
+    color: black;
+}
